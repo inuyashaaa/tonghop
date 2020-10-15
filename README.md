@@ -1,4 +1,13 @@
-# tonghop
+# Tổng Hợp
 
 ## Instagram
-![alt text](./screenshots/instagram/1.jpg)
+
+<img src="./screenshots/instagram/1.jpg" width="33%">
+<img src="./screenshots/instagram/1.jpg" width="33%">
+<img src="./screenshots/instagram/1.jpg" width="33%">
+
+## Telegram
+
+<img src="./screenshots/instagram/1.jpg" width="33%">
+<img src="./screenshots/instagram/1.jpg" width="33%">
+<img src="./screenshots/instagram/1.jpg" width="33%">
